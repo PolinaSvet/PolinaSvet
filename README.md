@@ -11,36 +11,6 @@
 
  **Go** 
 
- <div align="left" style="display: flex; gap: 10px; align-items: flex-start;">
-  <a href="https://github.com/PolinaSvet/taskRegexp" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskNewsFull" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskNewsCert" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-</div>
-
-<div align="left" style="display: flex; gap: 10px; align-items: flex-start;">
-  <a href="https://github.com/PolinaSvet/taskDataBase" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskDataBase&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskStorage" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskStorage&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskTelnetServerClient" style="flex: 1; height: 400px; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskTelnetServerClient&theme=nord_bright&height=400" 
-         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
-  </a>
-</div>
- 
 <div align="left">
   <a href="https://github.com/PolinaSvet/taskRegexp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="30%"/>
