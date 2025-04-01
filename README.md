@@ -9,35 +9,17 @@
 
  🔗 **Repositories:** 
 
- <table><tr>
-  <td style="width: 33%; padding: 5px;">
-    <a href="https://github.com/PolinaSvet/taskRegexp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" style="width: 100%;"/>
-    </a>
-  </td>
-  <td style="width: 33%; padding: 5px;">
-    <a href="https://github.com/PolinaSvet/taskShareProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" style="width: 100%;"/>
-    </a>
-  </td>
-  <td style="width: 33%; padding: 5px;">
-    <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" style="width: 100%;"/>
-    </a>
-  </td>
-</tr></table>
-
  **Go** 
  
 <div align="left">
   <a href="https://github.com/PolinaSvet/englishTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&theme=nord_bright" width="30% height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="30% height="50%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsFull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&height=400&theme=nord_bright" width="30%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsCert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&height=400&theme=nord_bright" width="30%"/>
   </a>
 </div>
 
