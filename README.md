@@ -12,8 +12,8 @@
  **Go** 
  
 <div align="left">
-  <a href="https://github.com/PolinaSvet/englishTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="30% height="50%"/>
+  <a href="https://github.com/PolinaSvet/taskRegexp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="30%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsFull">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&height=400&theme=nord_bright" width="30%"/>
@@ -36,8 +36,8 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/PolinaSvet/taskRegexp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="30%"/>
+  <a href="https://github.com/PolinaSvet/englishTrainer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="30% height="50%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskShareProjects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" width="30%"/>
