@@ -13,13 +13,19 @@
 
 <div align="left">
   <a href="https://github.com/PolinaSvet/taskRegexp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="50%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsFull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&height=400&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&height=400&theme=nord_bright" width="50%"/>
   </a>
+</div>
+
+<div align="left">
   <a href="https://github.com/PolinaSvet/taskNewsCert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&height=400&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&height=400&theme=nord_bright" width="50%"/>
+  </a>
+  <a href="https://github.com/PolinaSvet/taskDataBase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskDataBase&theme=nord_bright" width="30%"/>
   </a>
 </div>
 
