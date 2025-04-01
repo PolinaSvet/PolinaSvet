@@ -9,11 +9,36 @@
 
  🔗 **Repositories:** 
 
+ <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; align-items: stretch;  margin: 10px;">
+<row>
+  <a href="https://github.com/PolinaSvet/taskRegexp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <a href="https://github.com/PolinaSvet/taskShareProjects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <row/>
+  <row>
+  <a href="https://github.com/PolinaSvet/taskRegexp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <a href="https://github.com/PolinaSvet/taskShareProjects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" style="width: 100%; height: 100%;"/>
+  </a>
+  <row/>
+</div>
+
  **Go** 
  
 <div align="left">
   <a href="https://github.com/PolinaSvet/englishTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&theme=nord_bright" width="30% height="50%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsFull">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&theme=nord_bright" width="30%"/>
@@ -46,6 +71,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" width="30%"/>
   </a>
 </div>
+
 
 **C++** 
  
