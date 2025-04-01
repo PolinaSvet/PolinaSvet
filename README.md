@@ -1,5 +1,5 @@
-<h3 align="center">Hi there, I'm Polina.
-    <br/>Fullstack Developer from Russia.
+<h3 align="center">Hi there, I'm Polina
+    <br/>Fullstack Developer from Russia
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h3>
 
