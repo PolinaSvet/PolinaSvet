@@ -14,15 +14,15 @@
  <div align="left" style="display: flex; gap: 10px; align-items: flex-start;">
   <a href="https://github.com/PolinaSvet/taskRegexp" style="flex: 1; height: 400px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright&height=400" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: left top;"/>
+         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsFull" style="flex: 1; height: 400px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&theme=nord_bright&height=400" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: left top;"/>
+         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskNewsCert" style="flex: 1; height: 400px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&theme=nord_bright&height=400" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: left top;"/>
+         style="width: 30%; height: 100%; object-fit: cover; object-position: left top;"/>
   </a>
 </div>
  
