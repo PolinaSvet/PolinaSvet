@@ -30,26 +30,26 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/PolinaSvet/taskDataBase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskDataBase&theme=nord_bright" width="30%"/>
-  </a>
   <a href="https://github.com/PolinaSvet/taskStorage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskStorage&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskStorage&theme=nord_bright" width="45%"/>
   </a>
   <a href="https://github.com/PolinaSvet/taskTelnetServerClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskTelnetServerClient&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskTelnetServerClient&theme=nord_bright" width="45%"/>
   </a>
 </div>
 
 <div align="left">
   <a href="https://github.com/PolinaSvet/englishTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="30% height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="45%/>
   </a>
   <a href="https://github.com/PolinaSvet/taskShareProjects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" width="45%"/>
   </a>
+</div>
+
+<div align="left">    
   <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" width="45%"/>
   </a>
 </div>
 
@@ -58,7 +58,7 @@
  
 <div align="left">
   <a href="https://github.com/PolinaSvet/QT_HMI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=QT_HMI&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=QT_HMI&theme=nord_bright" width="45%"/>
   </a>
 </div>
 
@@ -66,7 +66,7 @@
  
 <div align="left">
   <a href="https://github.com/PolinaSvet/VueGoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=VueGoApp&theme=nord_bright" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=VueGoApp&theme=nord_bright" width="45%"/>
   </a>
 </div>
 
