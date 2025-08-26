@@ -92,7 +92,11 @@
 
 <h1></h1>
 
+🚀 **Сhallenges:** 
 
+[![Go Interview Practice Achievement](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/PolinaSvet.svg)](https://github.com/RezaSi/go-interview-practice)
+
+<h1></h1>
 
 
 🌐 **Contacts:** 
