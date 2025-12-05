@@ -9,67 +9,113 @@
 
  🔗 **Repositories:** 
 
- **Go** 
+**Go** 
 
-<div align="left">
-  <a href="https://github.com/PolinaSvet/taskRegexp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskRegexp&theme=nord_bright" width="45%"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskNewsFull">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsFull&height=400&theme=nord_bright" width="45%"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskRegexp">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskRegexp" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskNewsFull">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskNewsFull" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskNewsCert">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskNewsCert" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>  
+  <tr>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskDataBase">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskDataBase" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskStorage">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskStorage" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskTelnetServerClient">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskTelnetServerClient" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<table> 
+  <tr>
+    <td>
+      <a href="https://github.com/PolinaSvet/englishTrainer">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/englishTrainer" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/taskShareProjects">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/taskShareProjects" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/exampleWorkWithGitProject" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <a href="https://github.com/PolinaSvet/taskNewsCert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskNewsCert&height=400&theme=nord_bright" width="45%"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskDataBase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskDataBase&theme=nord_bright" width="45%"/>
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/PolinaSvet/taskStorage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskStorage&theme=nord_bright" width="45%"/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskTelnetServerClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskTelnetServerClient&theme=nord_bright" width="45%"/>
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/PolinaSvet/englishTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=englishTrainer&height=400&theme=nord_bright" width="45%/>
-  </a>
-  <a href="https://github.com/PolinaSvet/taskShareProjects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=taskShareProjects&theme=nord_bright" width="45%"/>
-  </a>
-</div>
-
-<div align="left">    
-  <a href="https://github.com/PolinaSvet/exampleWorkWithGitProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=exampleWorkWithGitProject&theme=nord_bright" width="45%"/>
-  </a>
-</div>
-
+<br>
 
 **C++** 
- 
-<div align="left">
-  <a href="https://github.com/PolinaSvet/QT_HMI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=QT_HMI&theme=nord_bright" width="45%"/>
-  </a>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PolinaSvet/QT_HMI">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/QT_HMI" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="90%" style="border-radius: 8px;"/>
+      </div>
+    </td>
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="90%" style="border-radius: 8px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 **Vue** 
- 
-<div align="left">
-  <a href="https://github.com/PolinaSvet/VueGoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolinaSvet&repo=VueGoApp&theme=nord_bright" width="45%"/>
-  </a>
-</div>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PolinaSvet/VueGoApp">
+        <img src="https://opengraph.githubassets.com/1/PolinaSvet/VueGoApp" width="90%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="90%" style="border-radius: 8px;"/>
+      </div>
+    </td>
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="90%" style="border-radius: 8px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
  
 
 <h1></h1>
