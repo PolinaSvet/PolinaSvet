@@ -12,7 +12,7 @@
 | Project | Description | Language | Stars | Last Commit |
 |---------|-------------|----------|-------|--------------|
 | [Network Tunnel](https://github.com/PolinaSvet/network-tunnel) | Учебная реализация сетевого туннеля на Go с шифрованием трафика | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | [![Stars](https://img.shields.io/github/stars/PolinaSvet/network-tunnel?style=flat-square)](https://github.com/PolinaSvet/network-tunnel/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/PolinaSvet/network-tunnel?style=flat-square)](https://github.com/PolinaSvet/network-tunnel/commits) |
-| [SCADA](https://github.com/PolinaSvet/scada) | Industrial data collection and monitoring system | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) | [![Stars](https://img.shields.io/github/stars/PolinaSvet/scada?style=flat-square)](https://github.com/PolinaSvet/scada/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/PolinaSvet/scada?style=flat-square)](https://github.com/PolinaSvet/scada/commits) |
+| [SCADA](https://github.com/PolinaSvet/scada) | Industrial data collection and monitoring system | ![Go](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) | [![Stars](https://img.shields.io/github/stars/PolinaSvet/scada?style=flat-square)](https://github.com/PolinaSvet/scada/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/PolinaSvet/scada?style=flat-square)](https://github.com/PolinaSvet/scada/commits) |
 
 
  📊 **GitHub Stats:** 
